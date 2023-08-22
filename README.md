@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=rabinnepal&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Rabin Nepal<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Rabin Nepal<br>
+
+
 [![LinkedIn](https://img.shields.io/badge/Rabin%20Nepal-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/rabin-nepal-aa221a1ab)
   [![Instagram](https://img.shields.io/badge/Rabin%20Nepal-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabinnepal_)
    [![Twitter Badge](https://img.shields.io/badge/Rabin%20Nepal-1D9BF0?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/rabinnepal0)</b>
@@ -11,16 +13,16 @@
 
 - ## Languages
 
-    ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
-    ![TypeScript Badge](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
-    ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
-    ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
+    ![JavaScript Badge](https://img.shields.io/badge/Javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
+    ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+    ![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
+    ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
 - ## Frameworks
     ![Django Badge](https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat)
-    ![DjangoREST Badge](https://img.shields.io/badge/Django-REST*-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat) 
-    ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
-    ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
+    ![DjangoREST Badge](https://img.shields.io/badge/Django-REST-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat) 
+    ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) 
+    ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
 
 - ## Databases     
     ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
@@ -49,8 +51,9 @@
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
     ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
 
-\* Skills in study and improvement.
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinnepal&label=Profile%20views&color=0e75b6&style=flat" alt="rabinnepal" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabinnepal&show_icons=true&locale=en&layout=compact" alt="rabinnepal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinnepal&" alt="rabinnepal" /></p>
 
