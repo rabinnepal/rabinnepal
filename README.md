@@ -1,4 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=rabinnepal&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinnepal&label=Profile%20views&color=0e75b6&style=flat" alt="rabinnepal" /> </p>
 
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Rabin Nepal<br>
 
@@ -53,7 +54,7 @@
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinnepal&label=Profile%20views&color=0e75b6&style=flat" alt="rabinnepal" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabinnepal&show_icons=true&locale=en&layout=compact" alt="rabinnepal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinnepal&" alt="rabinnepal" /></p>
 
