@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=rabinnepal&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+[//]: [![](https://visitcount.itsvg.in/api?id=rabinnepal&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinnepal&label=Profile%20views&color=0e75b6&style=flat" alt="rabinnepal" /> </p>
 
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Rabin Nepal<br>
