@@ -4,7 +4,7 @@
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Rabin Nepal<br>
 
 
-[![LinkedIn](https://img.shields.io/badge/Rabin%20Nepal-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/rabin-nepal-aa221a1ab](https://www.linkedin.com/in/rabin-nepal-aa221a1ab/))
+[![LinkedIn](https://img.shields.io/badge/Rabin%20Nepal-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rabin-nepal-aa221a1ab/))
   [![Instagram](https://img.shields.io/badge/Rabin%20Nepal-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabinnepal_)
    [![Twitter Badge](https://img.shields.io/badge/Rabin%20Nepal-1D9BF0?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/rabinnepal0)</b>
 
