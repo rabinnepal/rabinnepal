@@ -50,5 +50,6 @@
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
     ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
 
-
+- ## Badges
+  [![An image of @rabinnepal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rabinnepal)](https://holopin.io/@rabinnepal)
 
