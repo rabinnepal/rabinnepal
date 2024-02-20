@@ -21,8 +21,9 @@
     ![Django Badge](https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat)
     ![DjangoREST Badge](https://img.shields.io/badge/Django-REST-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat) 
     ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) 
-    ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
-
+    ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat)
+    ![Next.js Badge](https://img.shields.io/badge/Next.js-ddd?logo=nextdotjs&logoColor=000&style=flat)
+  
 - ## Databases     
     ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
     ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat) 
